@@ -1,7 +1,7 @@
 # ISAC Assisted Channel Knowledge Map (CKM)
 
 **Author**: Rajib Kumar Dash
-**Disclaimer**: These informations below are draft understanding and need to be refined or filtered when full undestanding of CKM need will be unfolded. 
+* **Disclaimer**: These below informations are draft understanding and need to be refined or filtered when full undestanding of CKM need will be unfolded. 
 
 # Construction of Channel Knowledge Maps (CKM) for Physical Layer Authentication (PLA)
 
